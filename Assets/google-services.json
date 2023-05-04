@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "603982600227",
+    "firebase_url": "https://api-project-80019018-default-rtdb.firebaseio.com",
+    "project_id": "api-project-80019018",
+    "storage_bucket": "api-project-80019018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603982600227:android:7769b1ba50177b1781b996",
+        "android_client_info": {
+          "package_name": "com.JJNNICompany.SavingPrivateAlien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603982600227-1sm1r6jev3bl8gdviv9anjtnnsdhjng1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JJNNICompany.SavingPrivateAlien",
+            "certificate_hash": "d8eda05aa80733fb638687e0c1cf5cafe93cc1a8"
+          }
+        },
+        {
+          "client_id": "603982600227-qghss3g7t39kicomatrk4o43tk41sms0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JJNNICompany.SavingPrivateAlien",
+            "certificate_hash": "b8a330ac6cd7f4fdfe4ef838e6d52816c83ad015"
+          }
+        },
+        {
+          "client_id": "603982600227-qk5dlnj5hfs3nva2j08ftgj2sbfs5qp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2LdMZzxN-mTDEDdlLJvANtC4bA8COas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603982600227-3balefeslgrhk2mo3dhs9jien5m05qmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
